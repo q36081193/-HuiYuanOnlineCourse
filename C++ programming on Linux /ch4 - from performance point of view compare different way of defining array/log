@@ -1,0 +1,18 @@
+----------int------------
+myInt array running time is 995 micro
+myInt array running time is 990 micro
+myInt array running time is 995 micro
+myInt array running time is 961 micro
+myInt array running time is 935 micro
+----------array------------
+myInt array running time is 1335 micro
+myInt array running time is 1342 micro
+myInt array running time is 1343 micro
+myInt array running time is 1568 micro
+myInt array running time is 1425 micro
+----------vector------------
+myInt array running time is 3471 micro
+myInt array running time is 3202 micro
+myInt array running time is 3206 micro
+myInt array running time is 3237 micro
+myInt array running time is 3262 micro
